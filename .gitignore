@@ -1,1 +1,7 @@
 .claude
+output_rag_chunks.jsonl
+pages.jsonl.txt
+sth.py
+how_to_start.md
+about_dataset.py
+check.ipynb
